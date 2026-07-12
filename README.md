@@ -66,17 +66,4 @@ Sales Analysis Project/
 └── README.md                         # Project documentation
 ```
 
----
-
-## 🌐 How to View
-- Open the `.ipynb` notebook in **Jupyter** for interactive exploration.  
-- Or view the HTML version directly in your browser.  
-- You can also preview it online using **nbviewer**:  
-  👉 [https://nbviewer.org](https://nbviewer.org)
-
----
-
-## 💬 Author
-**Mohamed Heta**  
-Data Analyst | Power BI | Python | SQL  
-Hashtags: #MAKE_DATA_TALK #معلومة_في_السكة
+معلومة_في_السك
